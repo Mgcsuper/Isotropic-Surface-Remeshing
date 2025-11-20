@@ -1,1 +1,1 @@
-Project content in the IsotropicSurfaceRemeshing folder
+Project contents can be found in the IsotropicSurfaceRemeshing folder
